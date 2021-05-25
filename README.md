@@ -16,3 +16,4 @@ Never give up
 see the beautiful in things
 Empower others and enjoy the magic
 
+Editing some text -Leonor
