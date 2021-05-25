@@ -9,3 +9,10 @@ So, after that formal introduction, let me tell you a secret:
 I am tall but not so tall.
 I am big but not so big.
 I am smart but, but no but.
+
+
+
+Never give up 
+see the beautiful in things
+Empower others and enjoy the magic
+
