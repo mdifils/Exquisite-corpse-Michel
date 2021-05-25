@@ -73,3 +73,16 @@ line3 - I hope It works well---
 
 There is no secet over everyone how to started training on AI data operator.
 But we all are together to learn it and go with each others helps whenever someone needs help and learn it confidentaly.
+
+### Contributors
+[Min](https://github.com/Minh6019)
+
+[Heba](https://github.com/Helabrak)
+
+[Leonor](https://github.com/ltadrummond)
+
+[Bilal](https://github.com/BMesm)
+
+[Maarten](https://github.com/MaartenVdBulcke)
+
+[Jayesh](https://github.com/JayeshItaliya86)
