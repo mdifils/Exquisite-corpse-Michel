@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+||||||| merged common ancestors
+<<<<<<<<< Temporary merge branch 1
+=======
+>>>>>>> 59dce24a90d6a08c0e9af8af68af7cec61b39d83
 # Exquisite-corpse-Michel
 
+<<<<<<< HEAD
 ## Description
 This project is part of AI training at BeCode. The main goal is to learn Git workflow with contributors on GitHub.
 We will be covering the following topics:
@@ -44,10 +50,22 @@ We will be covering the following topics:
 2. Make a merge of "development" on "master"
 3. Make a "master" tag named "version-1"
 ---
+<<<<<<< HEAD
 
 Below is my story with the collaboration of others
 =======
 
+||||||| merged common ancestors
+## Corrections
+||||||||| f336d77
+# Exquisite-corpse-Michel
+=========
+# Exquisite-corpse-Michel
+
+=======
+## Corrections
+=======
+>>>>>>> 59dce24a90d6a08c0e9af8af68af7cec61b39d83
 I am a junior developer at BeCode.
 I have just started my training as an AI data operator.
 I have met new friends and the name of our promotion is GNT-Arai-2.3.1
@@ -65,5 +83,20 @@ Never give up
 see the beautiful in things
 Empower others and enjoy the magic
 
+it might be hard, it might be long but it won't hurt you. Keep trying keep being annoyed but get up, every time! and in the end you will know what you have gained.
+
 Editing some text -Leonor
+<<<<<<< HEAD
 >>>>>>> 1025294d3709660cfb925e7e3def0ed54d0660a9
+||||||| merged common ancestors
+>>>>>>>>> Temporary merge branch 2
+=======
+---This is my pieces...line1
+line2 - happy to work with you--
+line3 - I hope It works well---
+>>>>>>> 52f22c71ff74afa06c4726c6cdf97c0c2c02acc7
+
+There is no secet over everyone how to started training on AI data operator.
+But we all are together to learn it and go with each others helps whenever someone needs help and learn it confidentaly.
+
+>>>>>>> 59dce24a90d6a08c0e9af8af68af7cec61b39d83
