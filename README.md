@@ -67,3 +67,7 @@ Editing some text -Leonor
 line2 - happy to work with you--
 line3 - I hope It works well---
 >>>>>>> 52f22c71ff74afa06c4726c6cdf97c0c2c02acc7
+
+There is no secet over everyone how to started training on AI data operator.
+But we all are together to learn it and go with each others helps whenever someone needs help and learn it confidentaly.
+
