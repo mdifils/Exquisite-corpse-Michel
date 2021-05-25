@@ -1,5 +1,6 @@
 # Exquisite-corpse-Michel
 
+<<<<<<< HEAD
 ## Description
 This project is part of AI training at BeCode. The main goal is to learn Git workflow with contributors on GitHub.
 We will be covering the following topics:
@@ -42,3 +43,27 @@ We will be covering the following topics:
 
 ---
 ## Corrections
+=======
+I am a junior developer at BeCode.
+I have just started my training as an AI data operator.
+I have met new friends and the name of our promotion is GNT-Arai-2.3.1
+
+So, after that formal introduction, let me tell you a secret: 
+
+I am tall but not so tall.
+I am big but not so big.
+I am smart but, but no but.
+
+
+
+Never give up 
+see the beautiful in things
+Empower others and enjoy the magic
+
+it might be hard, it might be long but it won't hurt you. Keep trying keep being annoyed but get up, every time! and in the end you will know what you have gained.
+
+Editing some text -Leonor
+---This is my pieces...line1
+line2 - happy to work with you--
+line3 - I hope It works well---
+>>>>>>> 52f22c71ff74afa06c4726c6cdf97c0c2c02acc7
