@@ -17,3 +17,6 @@ see the beautiful in things
 Empower others and enjoy the magic
 
 Editing some text -Leonor
+---This is my pieces...line1
+line2 - happy to work with you--
+line3 - I hope It works well---
