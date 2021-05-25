@@ -40,14 +40,13 @@ We will be covering the following topics:
 
 ---
 ## Versionning
-
+1. When all your colleagues have pushed to your repo, return to your deposit
+2. Make a merge of "development" on "master"
+3. Make a "master" tag named "version-1"
 ---
-## Corrections
-This add is from Minh
-||||||| f336d77
-# Exquisite-corpse-Michel
+
+Below is my story with the collaboration of others
 =======
-# Exquisite-corpse-Michel
 
 I am a junior developer at BeCode.
 I have just started my training as an AI data operator.
@@ -59,7 +58,8 @@ I am tall but not so tall.
 I am big but not so big.
 I am smart but, but no but.
 
-
+This add is from Minh
+||||||| f336d77
 
 Never give up 
 see the beautiful in things
